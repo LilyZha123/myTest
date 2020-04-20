@@ -1,0 +1,1 @@
+package com.example.demo.entity;public class Girl {    private int id;    private String name;    private int age;    private String address;}
