@@ -1,1 +1,1 @@
-package com.example.demo.entity;public class Student {    private String name;    private int age;    private String phoneNumber;    private String score;    private String devTest;}
+package com.example.demo.entity;public class Student {    private String name11;    private int age11;    private String phoneNumber11;    private String score11;    private String devTest;}
